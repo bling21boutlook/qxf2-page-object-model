@@ -6,6 +6,7 @@
 logs/
 screenshots/
 log/
+logs/
 .cache/
 .pytest_cache/
 geckodriver.log
